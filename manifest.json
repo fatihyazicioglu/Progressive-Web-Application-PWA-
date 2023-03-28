@@ -1,0 +1,20 @@
+{
+"name" : "fatih PWA Example",
+"short_name": "fatih PWA Example",
+"start_url": ".",
+"background_color": "#6dcdb1",
+"theme_color": "#009578",
+"display": "standalone",
+"icons":[
+{
+"src":"images/alex-shuper-JA14fUcNKFE-unsplash.jpg",
+"sizes":"192x192",
+"type":"image/jpg"
+},
+{
+"src":"images/sara-ghasemi-Yk9_PM_qIXE-unsplash.jpg",
+"sizes":"512x512",
+"type":"image/jpg"
+}
+]
+}
